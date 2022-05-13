@@ -1,2 +1,19 @@
 # prog_est_prog1
-Primer programa en C
+<p>Autor: Andriks Imanol Ruiz Martinez  <br>
+Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
+Materia: Programación Estructrada
+Ciclo: 01/2022</p>
+<br>
+<p>Este es el programa de la estructura básica de Lenguaje C de la materia de Programación Estructurada<br>
+Muestra el uso de:
+  <ul>
+    <li>printf para mostrar varias variables</li>
+<li>Comentarios para la doumentación interna del programa.</li>
+    </ul>
+    </p>
+<br>
+objetivo: mostrar como funciona el lenguaje C.
+<br>
+<p>Breve descripcion:
+El programa pide que se escriba el mensaje "Hola Mundo" <br>
+</p>
