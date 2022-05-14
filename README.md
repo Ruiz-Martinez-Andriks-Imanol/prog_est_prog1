@@ -9,7 +9,7 @@ Muestra el uso de:
   <ul>
     <li>printf para mostrar el mensaje</li>
     <li>El uso de include para las librerias</li>
-<li>Comentarios para la doumentación interna del programa.</li>
+<li>Comentarios para la documentación interna del programa.</li>
     </ul>
     </p>
 <br>
