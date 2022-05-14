@@ -6,7 +6,7 @@ Ciclo: 01/2022
 Este es el primer programa de Lenguaje C de la materia de Programación Estructurada
 Muestra el uso de:
 -printf para mostrar los mensajes.
--Comentarios. para la doumentación interna del programa.
+-Comentarios. para la documentación interna del programa.
 	*/
 #include <stdio.h>
 
