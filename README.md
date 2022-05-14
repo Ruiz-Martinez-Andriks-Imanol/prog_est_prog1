@@ -7,7 +7,7 @@ Ciclo: 01/2022</p>
 <p>Este es el programa de la estructura básica de Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
   <ul>
-    <li>printf para mostrar varias variables</li>
+    <li>printf para mostrar el mesnaje</li>
 <li>Comentarios para la doumentación interna del programa.</li>
     </ul>
     </p>
