@@ -1,17 +1,17 @@
-/* Autor: Andriks Imanol Ruiz Martínez, Realizado: 03/02/2022 
+/* Autor: Andriks Imanol Ruiz MartÃ­nez, Realizado: 03/02/2022 
 	Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programación Estructrada
+Materia: ProgramaciÃ³n Estructrada
 Ciclo: 01/2022
 
-Este es el primer programa de Lenguaje C de la materia de Programación Estructurada
+Este es el primer programa de Lenguaje C de la materia de ProgramaciÃ³n Estructurada
 Muestra el uso de:
--printf para mostrar varias variables.
--Comentarios. para la doumentación interna del programa.
+-printf para mostrar los mensajes.
+-Comentarios. para la doumentaciÃ³n interna del programa.
 	*/
 #include <stdio.h>
 
 int main() {
 /* Para imprimir */	printf("Hola Mundo!!!\n"); 
-printf("Andriks Imanol Ruiz Martínez");
+printf("Andriks Imanol Ruiz MartÃ­nez");
 	return 0;
 }
