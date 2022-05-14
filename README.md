@@ -8,7 +8,7 @@ Ciclo: 01/2022</p>
 Muestra el uso de:
   <ul>
     <li>printf para mostrar el mensaje</li>
-    <li>el uso de include para las librerias</li>
+    <li>El uso de include para las librerias</li>
 <li>Comentarios para la doumentación interna del programa.</li>
     </ul>
     </p>
