@@ -1,7 +1,7 @@
 # prog_est_prog1
-<p>Autor: Andriks Imanol Ruiz Martinez, fecha: 03/02/2022  <br>
-Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructrada <br>
+<p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 03/02/2022  <br>
+  <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa <br>
+  <b>Materia:</b> Programación Estructrada <br>
 Ciclo: 01/2022</p>
 <br>
 <p>Este es el programa de la estructura básica de Lenguaje C de la materia de Programación Estructurada<br>
@@ -13,8 +13,9 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-objetivo: mostrar como funciona el lenguaje C.
+<b>Objetivo:</b> mostrar como funciona el lenguaje C.
 <br>
-<p>Breve descripcion:
+<br>
+<p><b>Breve descripcion:</b>
 El programa pide que se escriba el mensaje "Hola Mundo" <br>
 </p>
